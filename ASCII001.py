@@ -96,9 +96,3 @@ if __name__ == '__main__':
         with open("output.txt", 'w') as f:
             f.write(txt)
 
-'''win = tk.Tk()
-text = tk.Text(win, width=100, height=100)
-text.pack()
-text.insert('end', txt)#INSERT索引表示光标当前的位置
-    #text.insert(END,'你奈人生何')
-win.mainloop()'''
